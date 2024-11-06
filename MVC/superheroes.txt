@@ -3,14 +3,14 @@
     "id": 1,
     "nombreSuperheroe": "Spiderman",
     "nombreReal": "Peter Parker",
-    "nombreSocidad": "Vigilante",
+    "nombreSociedad": "Vigilante",
     "edad": 25,
     "planetaOrigen": "Tierra",
     "debilidad": "Radiactiva",
     "poder": [
       "Trepar paredes",
       "Sentido arácnido",
-      "super fuerza",
+      "Super fuerza",
       "Agilidad"
     ],
     "habilidadEspecial": "Redes de telaraña",
